@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Application development**
+- 🌱 I’m currently learning - **Application development**
 
-- 💬 Ask me about **Streamling the legacy code implementations - accelerated software performance**
+- 💬 Ask me about - **Streamling the legacy code implementations - accelerated software performance**
 
 - 📫 How to reach me **rypatil7206@gmail.com**
 
-- ⚡ Fun fact **Fun fact - I love to pay attention to details :)**
+- ⚡ Fun fact - **I love to pay attention to details :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
