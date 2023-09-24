@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rypatil2001" alt="rypatil2001" /></a> </p>
-
 - 🌱 I’m currently learning **Application development**
 
 - 💬 Ask me about **Streamling the legacy code implementations - accelerated software performance**
